@@ -1,3 +1,25 @@
 @import 'tailwindcss/base';
 @import 'tailwindcss/components';
 @import 'tailwindcss/utilities';
+
+/* Estilo geral para a barra de rolagem */
+::-webkit-scrollbar {
+    width: 5px; /* Largura da barra de rolagem vertical */
+    height: 5px; /* Altura da barra de rolagem horizontal */
+}
+  
+/* Estilo do track da barra de rolagem */
+::-webkit-scrollbar-track {
+    background: transparent; /* Cor do fundo do track */
+    border-radius: 10px; /* Bordas arredondadas */
+}
+  
+/* Estilo do thumb da barra de rolagem */
+::-webkit-scrollbar-thumb {
+    background: #ccccccbb; /* Cor do thumb */
+}
+  
+/* Estilo do thumb quando está sendo clicado */
+::-webkit-scrollbar-thumb:active {
+    background: #ccccccbb; /* Cor do thumb quando ativo */
+}
