@@ -1,0 +1,21 @@
+{
+    "translation": {
+        "header": "I'm a Full Stack developer, I use React and Node.js to create complete web applications.",
+        "alt": "Álvaro Cardoso photo",
+        "projects": "Projects",
+        "about": "About",
+        "contact": "Contact Me",
+        "thanks": "Thank you for this visit",
+        "footer": "Developing complete solutions to transform ideas into digital experiences.",
+        "developed": "Developed by",
+        "name": "Name",
+        "email": "Email",
+        "message": "Message",
+        "placeholder": "Write your message...",
+        "send": "Send message",
+        "text1": "Hi, I'm a Full Stack developer with almost two years of experience. I like challenges and I am always looking to improve my skills to create efficient solutions.",
+        "text2": "During a knowledge fair in 2018, my school group developed a smart socket remotely controlled. My role in the project was to calculate the energy consumption, which sparked my interest in programming. After graduating from high school, I enrolled in a 10-month vocational course at Univates. During the course, I faced difficulties with a project and sought help from a professional in my city. That support not only helped me complete the task but also led to my first opportunity in the field, where I developed the website for Sollar Sul as a front-end developer. I am extremely grateful for this chance, as it marked the beginning of my career and pushed me to take on new challenges in web development.",
+        "technologies": "These are the technologies I use on a daily basis.",
+        "curriculum": "Curriculum"
+    }
+}
