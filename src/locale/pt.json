@@ -1,6 +1,6 @@
 {
     "translation": {
-        "header": "Sou desenvolvedor Full Stack, uso React e Node.js para criar aplicações web completas.",
+        "header": "Sou desenvolvedor Front-end, uso React, Vue e Angular para criar aplicações web completas.",
         "alt": "Foto de Álvaro Cardoso",
         "projects": "Projetos",
         "about": "Sobre",
@@ -13,8 +13,6 @@
         "message": "Mensagem",
         "placeholder": "Escreva sua mensagem...",
         "send": "Enviar mensagem",
-        "text1": "Olá, sou um desenvolvedor Full Stack com quase dois anos de experiência. Gosto de desafios e estou sempre buscando melhorar minhas habilidades para criar soluções eficientes.",
-        "text2": "Durante uma feira de conhecimento em 2018, meu grupo na escola desenvolveu uma tomada inteligente controlada remotamente. Minha responsabilidade no projeto era calcular o consumo de energia, o que despertou meu interesse por programação. Depois de concluir o ensino médio, me matriculei em um curso profissionalizante de 10 meses na Univates. Durante o curso, enfrentei dificuldades com um projeto, então busquei a ajuda de um profissional da minha cidade. Esse apoio não só me ajudou a concluir o trabalho, como também me abriu portas para minha primeira oportunidade na área, desenvolvendo o site da Sollar Sul como programador front-end. Sou extremamente grato por essa chance, pois ela marcou o início da minha carreira e me impulsionou a enfrentar novos desafios no desenvolvimento web.",
         "technologies": "Essas são as tecnologias que eu uso no dia a dia.",
         "curriculum": "Currículo"
     }

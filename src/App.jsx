@@ -27,7 +27,7 @@ function App() {
       <Header t={t} handleChangeLanguage={handleChangeLanguage} lang={lang} />
       <Routes>
         <Route path="/" element={<Projects lang={lang} />} />
-        <Route path="/about" element={<About t={t} />} />
+        <Route path="/about" element={<About lang={lang} t={t} />} />
         <Route path="/contact" element={<Contact t={t} />} />
       </Routes>
       <Footer t={t} />
