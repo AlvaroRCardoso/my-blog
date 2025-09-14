@@ -1,7 +1,7 @@
 const Perfil = ({ t, handleChangeLanguage, lang }) => {
   return (
     <div className="px-4">
-      <div className="grid max-w-lg grid-cols-1 justify-items-center gap-8">
+      <div className="grid max-w-xl grid-cols-1 justify-items-center gap-8">
         <div className="relative h-40 w-40 overflow-hidden rounded-full bg-slate-300">
           <a href="https://www.instagram.com/cardosoalvaro_/" target="_blak">
             <img alt={t("alt")} src="/me.png" />
