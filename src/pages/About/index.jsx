@@ -1,5 +1,5 @@
-import { FaHtml5, FaCss3, FaJava, FaReact, FaVuejs, FaAngular, FaFigma, FaGit } from 'react-icons/fa';
-import { SiTailwindcss, SiNextdotjs, SiJavascript, SiNuxtdotjs } from "react-icons/si";
+import { FaHtml5, FaCss3, FaJira, FaReact, FaLaravel, FaDocker, FaFigma, FaGit } from 'react-icons/fa';
+import { SiTailwindcss, SiNextdotjs, SiJavascript, SiPhp } from "react-icons/si";
 import { useEffect, useState } from "react";
 import { collection, getDocs } from "firebase/firestore";
 import { db } from "../../firebase/config"
@@ -8,15 +8,15 @@ const technologies = [
   { name: "HTML", icon: FaHtml5 },
   { name: "CSS", icon: FaCss3 },
   { name: "JS", icon: SiJavascript },
-  { name: "Java", icon: FaJava },
+  { name: "Tailwind", icon: SiTailwindcss },
   { name: "React", icon: FaReact },
   { name: "Next", icon: SiNextdotjs },
-  { name: "Vuejs", icon: FaVuejs },
-  { name: "Nuxt", icon: SiNuxtdotjs },
-  { name: "Angular", icon: FaAngular },
+  { name: "Php", icon: SiPhp },
+  { name: "Laravel", icon: FaLaravel },
+  { name: "Docker", icon: FaDocker },
+  { name: "Jira", icon: FaJira },
   { name: "Figma", icon: FaFigma },
-  { name: "Git", icon: FaGit },
-  { name: "Tailwind", icon: SiTailwindcss }
+  { name: "Git", icon: FaGit }
 ];
 
 const About = ({ lang, t }) => {
